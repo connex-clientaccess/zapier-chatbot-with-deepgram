@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Zapier Chatbot with Deepgram",
+  title: "Zapier Chatbot with Deepgram - Demo",
   description: "Converts text to audio using deepgram",
 };
 
